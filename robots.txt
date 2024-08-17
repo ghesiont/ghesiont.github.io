@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ghesiont.github.io/sitemap.html.gz
+Sitemap: https://ghesiont.github.io/app/sitemap.html.gz
+Sitemap: https://ghesiont.github.io/assets/sitemap.html.gz
+Sitemap: https://ghesiont.github.io/css/sitemap.html.gz
+Sitemap: https://ghesiont.github.io/includes/sitemap.html.gz
+Sitemap: https://ghesiont.github.io/item/sitemap.html.gz
+Sitemap: https://ghesiont.github.io/src/sitemap.html.gz
